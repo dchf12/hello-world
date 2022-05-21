@@ -1,3 +1,3 @@
-module github.com/go-hello-world
+module github.com/hello-world
 
 go 1.18
